@@ -1,0 +1,17 @@
+  
+{
+  "id": "Whatsapp",
+  "description": "Whatsapp display shows hints and other messages",
+  "host": "192.168.178.82",
+  "labels": ["hint", "messages"],
+  "port": 8083,
+  "input": {},
+  "output": {
+    "currentPerson": {
+      "type": "string",
+      "instructions": {
+        "text": "string"
+      }
+    }
+  }
+}
